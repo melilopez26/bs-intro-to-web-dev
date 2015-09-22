@@ -1,0 +1,6 @@
+TO-DOs:
+
+- Hagan un documento o proyecto de HTML y hagan uso de los 20 tags mas utilizadas en un documento HTML.
+- Recuerden hacer una cuenta en https://github.com/ para poder descargar el contenido del curso.
+- Descarguen e instalen el programa SourceTree de la pagina https://www.sourcetreeapp.com/, este nos serivra mas adelante para poder hacer el manejo del repositorio para los proyectos futuros.
+- Descarguen Google Chrome para que usen el inspect element del browser e investiguen paginas.

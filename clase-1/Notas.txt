@@ -1,0 +1,18 @@
+Notas de la clase #1.
+
+- <!-- Este es un comenatrio. -->: Este es la etiqueta para poner comentarios en un doumento de HTLM, lo que se encuentre ahi no se mostrara en el browser.
+
+- "Hello World!": Esta es la forma incorrecta de poner informacion en el documento de HTML, siempre se deben usar tags como los del parrafo <p></p>.
+
+- <p>Contenido</p>: Pueden oservar que se tiene siempre una etiqueta para abrir y una de cerrar.
+
+- <h1 style="color:red;">Heading</h1>: Esto es agregar un atributo. Se observa como el "style" esta para el tag h1. Tiene el nombre de "inline style".
+
+- CSS:
+
+selector 
+	{ 
+		propiedad : valor;
+		propiedad : valor;
+		propiedad : valor;
+	}
