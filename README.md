@@ -23,7 +23,7 @@ Marino Ramírez: mramirez@konradgroup.com
 * [María José Ortega]:	majok86@yahoo.com
 * [Melissa López]:	melissalopez26@hotmail.com
 * [Alejandra Mora]:	amora2@publicisgroupe.net
-* [Fabrice Damiana]:	fadamiana_12@hotmail.es
+* [Fabrice Damiana]:	fadamiana.12@gmail.com
 * [Gabriela Baidal]:	gabriela.baidal@digitaslbi.com
 * [Jairo Rosales]:	queko78@gmail.com
 * [Mariano Vega Abarca]:	luismariano@vegabarca.com
