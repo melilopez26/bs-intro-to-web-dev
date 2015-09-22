@@ -12,7 +12,7 @@ BrainStation Introduction to Web Development Course
 ### Lead Educator
 Mauricio Poveda: mpoveda@brainstation.io
 ### Technical Assistant
-Marino Rodríguez: mramirez@konradgroup.com
+Marino Ramírez: mramirez@konradgroup.com
 ### Students
 * [Jose Castro]: jp@gobu.io
 * [Lucia Carpio]:	carpio297@gmail.com
