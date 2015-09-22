@@ -22,7 +22,7 @@ Marino Ramírez: mramirez@konradgroup.com
 * [Lilliam Brenes Coto]:	litobreco@hotmail.com
 * [María José Ortega]:	majok86@yahoo.com
 * [Melissa López]:	melissalopez26@hotmail.com
-* [Alejandra Mora]:	amora2@publicisgroupe.net
+* [Alejandra Mora]:	alemv7@gmail.com
 * [Fabrice Damiana]:	fadamiana.12@gmail.com
 * [Gabriela Baidal]:	gabriela.baidal@digitaslbi.com
 * [Jairo Rosales]:	queko78@gmail.com
